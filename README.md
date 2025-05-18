@@ -2,7 +2,8 @@
 
 🌟 Aditya's Coffee Shop App – A beautiful React Native mobile application for coffee lovers! Order your favorite coffee with ease.
 
-📱 Features
+📱 Features - 
+
 ✅ Explore Coffee Menu – Americano, Espresso, Latte & more
 
 ✅ Add to Cart – Customize & order your coffee
